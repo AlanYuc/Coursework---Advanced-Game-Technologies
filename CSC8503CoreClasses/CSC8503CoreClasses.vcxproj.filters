@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Claptrap.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Debug.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameItem.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameWorld.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\SimpleMaze.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Goose.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Player.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\RenderObject.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Transform.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Claptrap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\SimpleMaze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Goose.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\RenderObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\BehaviourAction.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\BehaviourNode.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\BehaviourNodeWithChildren.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\BehaviourSelector.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\BehaviourSelector.cpp">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\BehaviourSequence.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\BehaviourSequence.cpp">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PushdownMachine.h">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PushdownMachine.cpp">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PushdownState.h">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PushdownState.cpp">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\State.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\StateMachine.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\StateMachine.cpp">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\StateTransition.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NavigationGrid.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NavigationGrid.cpp">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NavigationMesh.cpp">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NavigationMesh.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NavigationMap.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NavigationPath.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\AABBVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CapsuleVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CapsuleVolume.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CollisionDetection.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CollisionDetection.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CollisionVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\OBBVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\QuadTree.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\QuadTree.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Ray.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\SphereVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameClient.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameClient.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameServer.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\GameServer.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NetworkBase.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NetworkBase.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NetworkObject.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NetworkObject.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NetworkState.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\NetworkState.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\Constraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PositionConstraint.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PositionConstraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\OrientationConstraint.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\OrientationConstraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PhysicsObject.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PhysicsObject.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PhysicsSystem.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\PhysicsSystem.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\callbacks.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\list.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\list.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\protocol.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\protocol.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\win32.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\win32.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\enet.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\time.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\types.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\utility.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\compress.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\host.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\packet.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\enet\peer.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\COURSEWORK\CSC8503\CSC8503 2023\CSC8503CoreClasses\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AI">
+      <UniqueIdentifier>{631FBCE7-6CAE-3B1C-9382-81D10DC777DD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Behaviour Trees">
+      <UniqueIdentifier>{5CA3642F-EA3A-34A2-B817-60EA5538D924}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Pathfinding">
+      <UniqueIdentifier>{1BB8A954-6024-316A-94C0-ED9BE41F1982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Pushdown Automata">
+      <UniqueIdentifier>{0CAF0F0F-A71A-3086-9FBC-ECABFEBA8FC7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\State Machine">
+      <UniqueIdentifier>{42BAA224-1E60-3EFB-82CF-62104F8BA879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision Detection">
+      <UniqueIdentifier>{22F354F5-983E-33C8-92B0-A14DD3F82FE2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B082E72C-5C55-31A8-B1EE-35EA8EA40A4A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Networking">
+      <UniqueIdentifier>{A00820F5-99CC-3F11-936E-2E0F4519A471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics">
+      <UniqueIdentifier>{016F0C20-1E94-3869-AE6B-C726D562FA01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{67956F7A-84E9-36D9-96A0-0321CF692CC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{54DEA647-7D10-30B1-9916-B1F58C089E4E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="eNet">
+      <UniqueIdentifier>{3B495CF4-B33E-3627-83D1-05604C0D5B92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

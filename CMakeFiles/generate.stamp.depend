@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+E:/COURSEWORK/CSC8503/CSC8503 2023/CMake/Utils.cmake
+E:/COURSEWORK/CSC8503/CSC8503 2023/CMakeFiles/3.28.0-rc5/CMakeCXXCompiler.cmake
+E:/COURSEWORK/CSC8503/CSC8503 2023/CMakeFiles/3.28.0-rc5/CMakeRCCompiler.cmake
+E:/COURSEWORK/CSC8503/CSC8503 2023/CMakeFiles/3.28.0-rc5/CMakeSystem.cmake
+E:/COURSEWORK/CSC8503/CSC8503 2023/CMakeLists.txt
